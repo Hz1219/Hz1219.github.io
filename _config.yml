@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hengzhi Wang's Homepage"
+title                    :
 title_separator          : "-"
 name                     : &name "Hengzhi Wang"
 description              : &description "Homepage"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Hengzhi Wang"
+  avatar           : "whz.png"
   bio              : 
   location         : "Shenzhen, China"
   employer         :
