@@ -11,7 +11,7 @@ Publication
 
 [1] Hengzhi Wang, En Wang, Yongjian Yang, Bo Yang, and Jiangchuan Liu. A Truthful Pricing-based Defending Strategy against Adversarial Attacks in Budgeted Combinatorial Multi-armed Bandits. IEEE Transactions on Knowledge and Data Engineering, 2023. （CCF A）
 
-[2] Hengzhi Wang, En Wang, Yongjian Yang, Jie Wu, and Falko Dressler. Privacy-Preserving Online Task Assignment in Spatial Crowdsourcing: A Graph-based Approach. IEEE INFOCOM, 2022: 570-579. （CCF A类会议）
+[2] Hengzhi Wang, En Wang, Yongjian Yang, Jie Wu, and Falko Dressler. Privacy-Preserving Online Task Assignment in Spatial Crowdsourcing: A Graph-based Approach. IEEE INFOCOM, 2022: 570-579. （CCF A）
 
 [3] Hengzhi Wang, Yongjian Yang, En Wang, Wenbin Liu, Yuanbo Xu, and Jie Wu. Truthful User Recruitment for Cooperative Crowdsensing Task: A Combinatorial Multi-Armed Bandit Approach. IEEE Transactions on Mobile Computing, 2023, 22(7): 4314-4331.（CCF A）
 
