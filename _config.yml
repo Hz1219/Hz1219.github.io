@@ -13,7 +13,7 @@ name                     : &name "Hengzhi Wang"
 description              : &description "Homepage"
 url                      : https://hz1219.github.io # the base hostname & protocol for your site e.g. "https://hz1219.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Hz1219/Hz1219.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
