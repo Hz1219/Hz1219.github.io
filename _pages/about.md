@@ -15,7 +15,6 @@ Research Interests
 ----
 Federated Learning<br>
 Spatial Crowdsourcing<br>
-Privacy Preservation<br>
 
 Publication
 ----
