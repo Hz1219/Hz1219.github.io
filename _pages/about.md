@@ -1,4 +1,4 @@
- ---
+---
 permalink: /
 title: "Hengzhi Wang's Homepage"
 excerpt: "About me"
