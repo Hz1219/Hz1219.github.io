@@ -11,13 +11,13 @@ Office: Room 620-2, College of Computer Science and Software Engineering, South 
 
 Email: whz@szu.edu.cn
 
-###Research Interests
+### Research Interests
 ----
 Federated Learning<br>
 Spatial Crowdsourcing<br>
 Privacy Preservation<br>
 
-###Publication
+### Publication
 ----
 * Hengzhi Wang, Laizhong Cui, Lei Zhang, Linfeng Shen, and Long Chen. [Combinatorial Incentive Mechanism for Bundling Spatial Crowdsourcing with Unknown Utilities](https://infocom2024.ieee-infocom.org/program/accepted-paper-list-main-conference). IEEE INFOCOM 2024. （CCF A）<br>
 * Hengzhi Wang, En Wang, Yongjian Yang, Bo Yang, and Jiangchuan Liu. [A Truthful Pricing-based Defending Strategy against Adversarial Attacks in Budgeted Combinatorial Multi-armed Bandits](https://ieeexplore.ieee.org/document/10330787). IEEE Transactions on Knowledge and Data Engineering, Early Access, 2023. （CCF A）
