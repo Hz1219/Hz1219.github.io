@@ -16,17 +16,17 @@ About me
 Research Interests
 ----
 Federated Learning<br>
-Spatial Crowdsourcing<br>
+Spatial Crowdsourcing
 
 Professional Services
 ----
-* Web chair, _IEEE Satellite 2023_<br>
+* Web chair, _IEEE Satellite 2023_
 
 Reviewer
 ----
 * _IEEE INFOCOM 2024_
 * _IEEE Transactions on Mobile Computing_
-* _IEEE Transactions on Big Data_<br>
+* _IEEE Transactions on Big Data_
 
 Publication
 ----
