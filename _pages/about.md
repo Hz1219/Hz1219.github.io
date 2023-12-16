@@ -16,6 +16,16 @@ Research Interests
 Federated Learning<br>
 Spatial Crowdsourcing<br>
 
+Professional Services
+----
+* Web chair, _IEEE Satellite 2023_<br>
+
+Reviewer
+----
+* _IEEE INFOCOM 2024_
+* _IEEE Transactions on Mobile Computing_
+* _IEEE Transactions on Big Data_<br>
+
 Publication
 ----
 * **Hengzhi Wang**, Laizhong Cui, Lei Zhang, Linfeng Shen, and Long Chen. [Combinatorial Incentive Mechanism for Bundling Spatial Crowdsourcing with Unknown Utilities](https://infocom2024.ieee-infocom.org/program/accepted-paper-list-main-conference). IEEE INFOCOM 2024. （**CCF A**）<br>
