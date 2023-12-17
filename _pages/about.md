@@ -20,7 +20,7 @@ Spatial Crowdsourcing
 
 Professional Services
 ----
-* Web chair, _IEEE Satellite 2023_
+* Web chair, _IEEE Satellite 2023_, Shenzhen, China
 
 Reviewer
 ----
