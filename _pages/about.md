@@ -26,6 +26,7 @@ Reviewer
 ----
 * _IEEE INFOCOM 2024_
 * _IEEE Transactions on Mobile Computing_
+* _IEEE Transactions on Dependable and Secure Computing_
 * _IEEE Transactions on Big Data_
 
 Publication
