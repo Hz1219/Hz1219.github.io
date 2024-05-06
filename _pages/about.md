@@ -32,6 +32,7 @@ Reviewer
 
 Publication
 ----
+* **Hengzhi Wang**, Laizhong Cui, En Wang, and Jiangchuan Liu. [A Differentially Private Approach for Budgeted Combinatorial Multi-armed Bandits](https://hz1219.github.io/). _IEEE Transactions on Dependable and Secure Computing_, 2024, Early Access. （**CCF A**）<br>
 * **Hengzhi Wang**, Laizhong Cui, Lei Zhang, Linfeng Shen, and Long Chen. [Combinatorial Incentive Mechanism for Bundling Spatial Crowdsourcing with Unknown Utilities](https://infocom2024.ieee-infocom.org/program/accepted-paper-list-main-conference). _IEEE INFOCOM 2024_. （**CCF A**）<br>
 * **Hengzhi Wang**, En Wang, Yongjian Yang, Bo Yang, and Jiangchuan Liu. [A Truthful Pricing-based Defending Strategy against Adversarial Attacks in Budgeted Combinatorial Multi-armed Bandits](https://ieeexplore.ieee.org/document/10330787). _IEEE Transactions on Knowledge and Data Engineering_, 2024, Early Access. （**CCF A**）<br>
 * **Hengzhi Wang**, En Wang, Yongjian Yang, Jie Wu, and Falko Dressler. [Privacy-Preserving Online Task Assignment in Spatial Crowdsourcing: A Graph-based Approach](https://ieeexplore.ieee.org/document/9796827). _IEEE INFOCOM 2022_: 570-579. （**CCF A**）<br>
